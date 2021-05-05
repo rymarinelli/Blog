@@ -91,31 +91,33 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 email = "ryanmarinelli24@gmail.com"
 phone = "215-880-2036"
 
+
+
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1615 Poydras St", city = "New Orleans", region = "LA", postcode = "70112", country = "United States", country_code = "US"}
+address = {street = "1 W Wilson St", city = "Madison", region = "WI", postcode = "53703", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "29.9511", longitude = "-90"}
+coordinates = {latitude = "43.072128136805794", longitude = "-89.3813098640034"}
 
 # Directions for visitors to locate you.
-directions = "23rd Floor"
+#directions = "23rd Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Client Meetings as Requested"]
+office_hours = ["Meetings as Requested"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/rymarinelli?lang=en"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+ # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -127,7 +129,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "rymarinelli"
 
 ############################
 ## Regional Settings
