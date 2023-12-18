@@ -89,20 +89,20 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ryanmarinelli24@gmail.com"
-phone = "215-880-2036"
+phone = "262-838-8528"
 
 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 W Wilson St", city = "Madison", region = "WI", postcode = "53703", country = "United States", country_code = "US"}
+address = {street = "2604 N Murray", city = "Milwaukee", region = "WI", postcode = "53211", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.072128136805794", longitude = "-89.3813098640034"}
+coordinates = {latitude = "43.06644319997041", longitude = "-87.8851647644177"}
 
 # Directions for visitors to locate you.
-#directions = "23rd Floor"
+#directions = "Access Antechamber"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

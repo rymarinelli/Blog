@@ -18,20 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Co-Founder"
-  company = "Alte Volant"
-  company_url = "https://altevolant.org/"
-  location = "Jupiter,Florida"
-  date_start = "2020-11-01"
-  date_end = ""
+  title = "Data Engineer"
+  company = "Metrum Research Group"
+  company_url = "Metrum Research Group"
+  location = "Tariffville, CT"
+  date_start = "2022-04-01"
+  date_end = "2023-12-31"
   description = """
   Responsibilities include:
   
-  * **Managing Spark cluster** with **orchestrated docker containers** for distributed processing  
-  * Designing and refining **Convolution Neural Networks** for computer vision tasks 
-  * Rendering images and **creating maps** based on spatial data 
-  * Planning **drone flights** and paths optimized on spatial information
-  * Implemented **long-range communication** using **LoRa** and packet radio 
+  * Maintained **open-source pharmaceutic libraries** in R and Go using agile methods  
+  * **Authored tests** and filled **coverage gaps** for new features to ensure robust operations 
+  * Assisted is conducting **validation** of environments to pass regulation standards 
+  * Created tooling to assist in running diagnostics of PKPD models.
   """
 
 [[experience]]
@@ -40,6 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://gainwelltechnologies.com/"
   location = "Madison,WI"
   date_start = "2019-09-30"
+  date_end = "2022-04-30"
   description = """
    Responsibilities include:
    

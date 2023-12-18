@@ -4,9 +4,12 @@ authors:
 bio: My research interests include data visualization and data science. 
 education:
   courses:
+  - course: Doctorate in Machine Learning 
+    institution: University of Oslo
+    year: 2024 - current
   - course: Master of Science in Computer Science
     institution: University of York
-    year: 2019 - current 
+    year: 2020 - 2023
   - course: Master of Science in Economics
     institution: Drexel University
     year: 2018
@@ -16,12 +19,14 @@ education:
 email: "ryanmarinelli24@gmail.com"
 interests:
 - High-Performance Computing
+- Machine Learning 
+- Cyber Security
 - Spatial Statistics
 - Econometrics
 organizations:
-- name: DXC Technology
+- name: Metrum Research Group
   url: ""
-role: Big Data Engineer
+role: Data Scientist 
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,4 +47,4 @@ user_groups:
 - 
 ---
 
-Ryan Marinelli is a Big Data Engineer with DXC Technology. Ryan's interest is in data science and GIS. In particular, Ryan specializes in spatial statistics and spatial econometrics. In terms of other skills, Ryan is strong with data engineering and uses Spark and batch amongst other technologies. 
+Ryan Marinelli is a Data Scientist at Metrum Research Group and will be a doctoral student at the University of Oslo.  Ryan's interest is in data science and GIS. In particular, Ryan specializes in machine learning and has a passion for cyber security analytics and spatial statistics. 
